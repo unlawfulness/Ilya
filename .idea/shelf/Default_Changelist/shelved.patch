@@ -1,0 +1,149 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"22ebb8ea-c88d-49ef-b810-e55458a0f077\" name=\"Default Changelist\" comment=\"Вразумительный комментарий\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeStyleSettingsInfer\">\r\n    <option name=\"done\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"hiddenUrls\">\r\n      <set>\r\n        <option value=\"https://github.com/unlawfulness\" />\r\n        <option value=\"https://github.com/unlawfulness/BeatBox.git\" />\r\n      </set>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectCodeStyleSettingsMigration\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1klwRfu8jwevlOJwl4mi8aYLIwR\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2505747\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"BeatBox\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" value=\"1.8\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"BeatBox\" />\r\n      <module name=\"Beat_v1\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.BeatBox\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"22ebb8ea-c88d-49ef-b810-e55458a0f077\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1606288478441</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1606288478441</updated>\r\n      <workItem from=\"1606288481800\" duration=\"5610000\" />\r\n      <workItem from=\"1610443084762\" duration=\"3341000\" />\r\n      <workItem from=\"1610448738796\" duration=\"2183000\" />\r\n      <workItem from=\"1610469595876\" duration=\"4667000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Вразумительный комментарий\">\r\n      <created>1610472877957</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1610472877957</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Вразумительный комментарий\">\r\n      <created>1610473868374</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1610473868374</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Вразумительный комментарий\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Вразумительный комментарий\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"414\" y=\"174\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1610443436134\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"414\" y=\"174\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610443436133\" />\r\n    <state x=\"765\" y=\"226\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1610443719946\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2685\" y=\"226\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040\" timestamp=\"1606292696076\" />\r\n    <state x=\"765\" y=\"226\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610443719946\" />\r\n    <state x=\"260\" y=\"261\" key=\"FileChooserDialogImpl\" timestamp=\"1610472360657\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"260\" y=\"261\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610472360657\" />\r\n    <state x=\"838\" y=\"417\" key=\"Github.ShareDialog\" timestamp=\"1610478479856\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"838\" y=\"417\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610478479856\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1610448473850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040\" timestamp=\"1606293187106\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610448473850\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.center\" timestamp=\"1610448473849\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040\" timestamp=\"1606293187106\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610448473849\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.left\" timestamp=\"1610448473849\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040\" timestamp=\"1606293187106\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610448473849\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.right\" timestamp=\"1610448473849\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040\" timestamp=\"1606293187106\" />\r\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610448473849\" />\r\n    <state x=\"440\" y=\"94\" key=\"SettingsEditor\" timestamp=\"1610478533417\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"440\" y=\"94\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610478533417\" />\r\n    <state x=\"769\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1610473848571\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"769\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610473848571\" />\r\n    <state x=\"342\" y=\"140\" key=\"new project wizard\" timestamp=\"1610446359194\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"342\" y=\"140\" key=\"new project wizard/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1610446359194\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c02a0f0d4138cfb9a1163be4dbfdcb2fa2e9dad1)
++++ .idea/workspace.xml	(date 1610486912599)
+@@ -7,11 +7,15 @@
+         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+       </path>
+     </expand>
+-    <select />
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="22ebb8ea-c88d-49ef-b810-e55458a0f077" name="Default Changelist" comment="Вразумительный комментарий">
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -30,6 +34,24 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <excluded-from-favorite>
++      <branch-storage>
++        <map>
++          <entry type="LOCAL">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="master" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </excluded-from-favorite>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GithubPullRequestsUISettings">
+@@ -77,7 +99,7 @@
+     </recent_temporary>
+   </component>
+   <component name="SvnConfiguration">
+-    <configuration />
++    <configuration>C:\Users\Sb\AppData\Roaming\Subversion</configuration>
+   </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -90,6 +112,7 @@
+       <workItem from="1610443084762" duration="3341000" />
+       <workItem from="1610448738796" duration="2183000" />
+       <workItem from="1610469595876" duration="4667000" />
++      <workItem from="1610480243468" duration="1665000" />
+     </task>
+     <task id="LOCAL-00001" summary="Вразумительный комментарий">
+       <created>1610472877957</created>
+@@ -105,7 +128,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1610473868374</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Комментарий">
++      <created>1610480454880</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1610480454880</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -121,10 +151,12 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Вразумительный комментарий" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Вразумительный комментарий" />
++    <MESSAGE value="Комментарий" />
++    <option name="LAST_COMMIT_MESSAGE" value="Комментарий" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610443436134">
+@@ -140,10 +172,14 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="260" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610472360657" />
+-    <state x="838" y="417" key="Github.ShareDialog" timestamp="1610478479856">
++    <state x="705" y="386" key="Github.CreatePullRequestDialog" timestamp="1610481069694">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="705" y="386" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610481069694" />
++    <state x="838" y="417" width="455" height="205" key="Github.ShareDialog" timestamp="1610480334772">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610478479856" />
++    <state x="838" y="417" width="455" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610480334772" />
+     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610448473850">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -168,10 +204,30 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610478533417" />
+-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610473848571">
++    <state x="804" y="434" key="VCS.EditChangelistDialog" timestamp="1610480495337">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="804" y="434" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610480495337" />
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610481118356">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610481118356" />
++    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610480964798">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610480964798" />
++    <state x="676" y="308" key="git4idea.merge.GitPullDialog" timestamp="1610480675607">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="676" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610480675607" />
++    <state x="776" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1610480620826">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610473848571" />
++    <state x="776" y="381" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610480620826" />
++    <state x="757" y="411" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610480791907">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="757" y="411" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610480791907" />
+     <state x="342" y="140" key="new project wizard" timestamp="1610446359194">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
